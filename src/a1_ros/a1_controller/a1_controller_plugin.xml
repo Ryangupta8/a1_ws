@@ -1,0 +1,8 @@
+<library path="lib/liba1_joint_controller">
+    <class name="a1_controller/A1JointController" 
+            type="a1_controller::A1JointController"           
+            base_class_type="controller_interface::ControllerBase"/>
+        <description>
+            The A1 joint controller.
+        </description>
+</library>
