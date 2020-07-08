@@ -1,0 +1,6 @@
+a1_ros/a1_controller
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_controller/cmake.lock /home/knapsack/workspaces/a1_ws/devel/./cmake.lock
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_controller/share/a1_controller/cmake/a1_controllerConfig.cmake /home/knapsack/workspaces/a1_ws/devel/share/a1_controller/cmake/a1_controllerConfig.cmake
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_controller/share/a1_controller/cmake/a1_controllerConfig-version.cmake /home/knapsack/workspaces/a1_ws/devel/share/a1_controller/cmake/a1_controllerConfig-version.cmake
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_controller/lib/liba1_joint_controller.so /home/knapsack/workspaces/a1_ws/devel/lib/liba1_joint_controller.so
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_controller/lib/pkgconfig/a1_controller.pc /home/knapsack/workspaces/a1_ws/devel/lib/pkgconfig/a1_controller.pc

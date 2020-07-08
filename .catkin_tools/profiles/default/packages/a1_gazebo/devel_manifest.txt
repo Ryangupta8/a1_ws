@@ -1,0 +1,10 @@
+a1_ros/a1_gazebo
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/cmake.lock /home/knapsack/workspaces/a1_ws/devel/./cmake.lock
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/share/a1_gazebo/cmake/a1_gazeboConfig-version.cmake /home/knapsack/workspaces/a1_ws/devel/share/a1_gazebo/cmake/a1_gazeboConfig-version.cmake
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/share/a1_gazebo/cmake/a1_gazeboConfig.cmake /home/knapsack/workspaces/a1_ws/devel/share/a1_gazebo/cmake/a1_gazeboConfig.cmake
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/liba1_gazebo.so /home/knapsack/workspaces/a1_ws/devel/lib/liba1_gazebo.so
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/libA1FootContactPlugin.so /home/knapsack/workspaces/a1_ws/devel/lib/libA1FootContactPlugin.so
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/libA1DrawForcePlugin.so /home/knapsack/workspaces/a1_ws/devel/lib/libA1DrawForcePlugin.so
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/a1_gazebo/a1_servo /home/knapsack/workspaces/a1_ws/devel/lib/a1_gazebo/a1_servo
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/a1_gazebo/a1_external_force /home/knapsack/workspaces/a1_ws/devel/lib/a1_gazebo/a1_external_force
+/home/knapsack/workspaces/a1_ws/devel/.private/a1_gazebo/lib/pkgconfig/a1_gazebo.pc /home/knapsack/workspaces/a1_ws/devel/lib/pkgconfig/a1_gazebo.pc

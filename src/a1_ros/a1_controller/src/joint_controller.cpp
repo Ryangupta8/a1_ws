@@ -3,7 +3,7 @@ Copyright (c) 2018-2019, Unitree Robotics.Co.Ltd. All rights reserved.
 Use of this source code is governed by the MPL-2.0 license, see LICENSE.
 ************************************************************************/
 
-#include "a1_controller/a1_controller.h"
+#include "a1_controller/joint_controller.h"
 #include "a1_controller/a1_control_tool.h"
 #include <pluginlib/class_list_macros.h>
 
